@@ -1,0 +1,96 @@
+#wacclogo {
+    height: 35px;
+    width: 60px;
+}
+
+#alerter, #btn {
+    background-color: #9530AB;
+    color: #fff;
+    font-size: 13px;
+    padding: 10px 20px 10px 20px;
+    border-radius: 20px;
+    font-weight: 300;
+}
+
+a {
+    color: #9530AB;
+    text-decoration: underline;
+}
+
+#alerter {
+    width: 95%;
+    margin: auto;
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#main_newsletter {
+    background-color: #9530AB;
+    border-radius: 50px;
+    font-size: 2vw;
+}
+
+#space {
+    padding: 30px;
+}
+
+#space_small {
+    padding: 10px;
+}
+
+.card-img-overlay {
+    background-color: hsla(0, 0%, 0%, 0.5);
+}
+
+#bigbox2 {
+    width: 90%;
+    margin: auto
+}
+
+#banner {
+    background-image: linear-gradient(hsla(0, 0%, 0%, 0.5), rgba(0, 0, 0, 0)), url(wacc_large_logo.jpg);
+    width: 90%;
+    margin:auto;
+    background-size: cover;
+    text-align: center;
+    color: #fff;
+    background-blend-mode: darken;
+    background-repeat: no-repeat;
+}
+
+#credit {
+    background-color: #9530AB;
+    width: 100%;
+    text-align: right;
+    color: #fff;
+    padding: 5px;
+    padding-right: 20px;
+    margin-bottom: 0;
+    font-size: 13px;
+    font-weight: 300;
+}
+
+#content {
+    min-height: calc(100vh - 40px);
+}
+
+/*
+#about_us {
+    max-width: 700px;
+}
+*/
+
+#exec_img {
+    max-height: 400px;
+    object-fit: contain;
+    padding: 20px;
+    width: auto;
+}
+
+#exec_ind_img {
+    max-height: 300px;
+    object-fit: contain;
+    padding: 20px;
+    width: auto;
+}
